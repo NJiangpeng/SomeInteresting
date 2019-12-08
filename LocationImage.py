@@ -83,7 +83,7 @@ def main():
     Location(str(lat), str(lng))
 
 
-#我的开发密钥： kye=M22BZ-WIZCG-7YXQ3-I6WYL-VSTTV-ZKFHG
+
 
 if __name__ == '__main__':
    main()
